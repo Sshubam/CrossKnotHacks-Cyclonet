@@ -10,7 +10,7 @@ The Model will return the estimated Intensity of satellite cyclone image in KNOT
 
 ## Dataset
 
-![Curated Dataset link](https://www.kaggle.com/datasets/sshubam/insat3d-infrared-raw-cyclone-images-20132021)
+[Curated Dataset link](https://www.kaggle.com/datasets/sshubam/insat3d-infrared-raw-cyclone-images-20132021)
 
 ## Tech Stack Used
 
